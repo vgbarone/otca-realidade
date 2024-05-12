@@ -38,4 +38,4 @@ O código em Python consulta o arquivo lei_crimes_ambientais.json e usa a API go
 
 <H2>Desafios e Realizações</H2>
 
-<b>O projeto encontrou obstáculos técnicos, mas consegui viabilizar o chatbot para python que está nesse diretório (ele funciona). No outro repositório, otca-expectativa, vocês podem ver todo o esforço de 48 hs que, infelizmente, não deu resultado.</b>
+<b>O projeto encontrou obstáculos técnicos, mas consegui viabilizar o chatbot para python que está nesse diretório (ele funciona). No outro repositório, <b><a href="https://github.com/vgbarone/otca-expectativa">otca-expectativa</a></b>, vocês podem ver todo o esforço de 48 hs que, infelizmente, não deu resultado.</b>
